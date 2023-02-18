@@ -1,0 +1,1 @@
+Explain the purpose and mathematical properties of the softmax operation.
