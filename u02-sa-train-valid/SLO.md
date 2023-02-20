@@ -1,0 +1,1 @@
+Contrast a training set and validation set; explain appropriate uses of both

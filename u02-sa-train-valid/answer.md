@@ -1,0 +1,3 @@
+The purpose of this split is to have some of the available data used for training the model, and another portion used for validating the model's performance. The training set is used to train the model, while the validation set is used to evaluate the model's performance by measuring its accuracy and other metrics on data that it has not seen before.
+
+This helps to prevent overfitting, which occurs when a model is trained to fit the training data too closely and therefore performs poorly on new data. It almost 'memorizes' the data that it is trained on. By using a validation set to measure performance, it allows us to identify overfitting and adjust the model appropriately. This way, we can create a model that generalizes well to new data.
