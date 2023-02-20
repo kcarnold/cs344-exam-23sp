@@ -1,0 +1,1 @@
+The correct answer is 'd'. Because the weight's gradient is positive, increasing the weight slightly will also increase the loss. But since the goal is to minimize the loss of the model, the weight should instead be decreased slightly, which should result in a smaller loss.
