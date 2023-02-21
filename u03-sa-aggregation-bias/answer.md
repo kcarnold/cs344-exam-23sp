@@ -1,0 +1,1 @@
+Aggregation bias is when models don't use all the important information when analyzing data, like interaction terms or nonlinearities. It can be seen in medical fields with diabetes treatment. Decisions on inadequate data, such as small sample sizes of heterogeneous people can lead to erroneous diagnoses and suboptimal treatment.
