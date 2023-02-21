@@ -1,0 +1,4 @@
+2 Example responses
+1. Symbolic AI did not scale well because every possible situation had to have a related set of rules. Once systems reached approximately 2000 heuristics, human errors in the instruction creation caused the heuristics to conflict. These factors made it difficult to create rules that worked well for large problems like language generation.
+
+2. Symbolic AI required numerous subject matter experts. In numerical AI the algorithm learns the relations and patterns based on the data, but in symbolic AI, developers needed expert knowledge to define those same relations. This restricted opportunities for a wide variety of people to develop algorithms, especially because heuristics didn't transfer well between problems.

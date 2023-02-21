@@ -1,0 +1,1 @@
+Analyze a factor that caused the decline of symbolic AI.
