@@ -1,0 +1,1 @@
+How do you go about collecting data in a safe and ethical way to train an AI model without introducing biases?

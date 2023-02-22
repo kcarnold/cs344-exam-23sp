@@ -1,0 +1,1 @@
+When collecting data you use blind and random sampling techniques to get your data, instead of picking and choosing what to use. It is hard to get rid of biases that is already incorporated into the data you're collecting, but you can use different randomly sampling methods in order to not introduce new biases into the data your model is producing.
