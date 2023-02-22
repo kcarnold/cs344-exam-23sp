@@ -1,0 +1,2 @@
+Suppose a linear layer has weights = [1.5, -3.0, -1.0] and bias = [2.0, 2.0, 2.0]. It receives input x = [4, 0.5, 2.0].  
+What is the output of that layer? Explain your answer and the math you do to get it.
