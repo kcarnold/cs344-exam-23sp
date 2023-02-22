@@ -1,0 +1,1 @@
+Define what is aggregation bias and how can it particularly occur in medical settings?

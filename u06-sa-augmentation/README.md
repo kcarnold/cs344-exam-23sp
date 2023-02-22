@@ -1,0 +1,1 @@
+Give 3 examples of data augmentation in the context of an image classifier, then explain why augmentation could be useful in this context.

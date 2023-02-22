@@ -1,0 +1,1 @@
+Explain how a pre-trained model can be repurposed for a new task by separating it into a general-purpose “body” (aka “encoder”) and a task-specific “head”.

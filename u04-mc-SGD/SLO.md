@@ -1,0 +1,1 @@
+Describe the overall approach of Stochastic Gradient Descent: how does it use information from a batch of data to improve its performance on that and other data?
