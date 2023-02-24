@@ -1,0 +1,1 @@
+FALSE. MSE is a loss function. A loss function is a function that is used to optimize the parameters of a model during the training process. MSE and cross-entropy loss are examples of it. 

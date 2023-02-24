@@ -1,0 +1,1 @@
+Identify some of the major milestones in the history of AI.

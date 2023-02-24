@@ -1,0 +1,1 @@
+A learning rate is a setting that determines how much a model adjusts its parameters in response to error during training. Choosing the right learning rate is important because if it's too small, the model may take a long time to learn, and if it's too large, the model may not learn well or may even get worse.
