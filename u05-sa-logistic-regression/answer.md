@@ -1,0 +1,1 @@
+In this step, first the logarithm of the softmax results is calculated. Then these probabilities are multiplied by the corresponding labels in the training dataset, and then summed. This calculates the log-likelihood of the model. 
