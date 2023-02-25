@@ -1,1 +1,2 @@
-A learning rate is a setting that determines how much a model adjusts its parameters in response to error during training. Choosing the right learning rate is important because if it's too small, the model may take a long time to learn, and if it's too large, the model may not learn well or may even get worse.
+# Answer
+* A larger batch size in an image classifier can speed up the training process by processing more images at once. However, this can lead to a slower convergence and require more memory. On the other hand, a smaller batch size can improve generalization but could take longer to train. There are different trade-offs.
