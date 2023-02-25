@@ -1,0 +1,1 @@
+Adapt Python code to load data to be used by an image classifier.

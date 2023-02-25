@@ -1,0 +1,1 @@
+Answer: D, since some images may have important identifying information in the sections that are cropped out.
