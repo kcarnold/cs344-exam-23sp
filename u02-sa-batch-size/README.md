@@ -1,0 +1,1 @@
+# When considering the batch size of an image classifier, what are the benefits and disadvantages of having a larger batch size in the training model?

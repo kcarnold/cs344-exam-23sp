@@ -1,1 +1,1 @@
-True or false: In the context of machine learning, fairness is always objective and can be determined by statistical measures alone.
+# True or false: In the context of machine learning, bias can always be measured via statistical measures.

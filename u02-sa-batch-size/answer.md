@@ -1,0 +1,2 @@
+# Answer
+* A larger batch size in an image classifier can speed up the training process by processing more images at once. However, this can lead to a slower convergence and require more memory. On the other hand, a smaller batch size can improve generalization but could take longer to train. There are different trade-offs.

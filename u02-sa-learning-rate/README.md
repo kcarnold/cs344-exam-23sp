@@ -1,1 +1,0 @@
-What is a learning rate and why is it important in deep learning?
