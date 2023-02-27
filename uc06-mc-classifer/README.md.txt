@@ -1,0 +1,1 @@
+3: PyTorch and fastai have two main classes for representing and accessing a training set or validation set:
