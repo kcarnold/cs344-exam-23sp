@@ -1,0 +1,1 @@
+Describe the structure of the data provided as input to an image classifier in terms of batches and labels.

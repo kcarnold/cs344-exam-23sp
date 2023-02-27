@@ -1,0 +1,1 @@
+images.shape has the value torch.Size([9, 3, 224, 224]). What does each number mean?
