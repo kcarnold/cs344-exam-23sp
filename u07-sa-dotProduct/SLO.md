@@ -1,0 +1,1 @@
+This is a pre-req to being able to "Describe how embeddings are used in recommender systems."
