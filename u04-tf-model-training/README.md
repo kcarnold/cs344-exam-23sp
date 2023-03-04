@@ -1,0 +1,1 @@
+For an image classifier, each possible classification type is trained by overlaying all the images in the test set, and calculating the average intensity of that pixel.
