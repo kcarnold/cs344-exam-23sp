@@ -1,0 +1,1 @@
+What does a gradient actually measure and how is that used to improve a model?

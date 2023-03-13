@@ -1,0 +1,1 @@
+Describe the Approach of Stochastic Gradient Descent
