@@ -1,0 +1,1 @@
+The gradient measures how loss changes with respect to parameters. This is turn allows us to change these parameters in such a way to reduce the loss. This is acheieved through gradient descent, where the parameters are reduced by the measure of the gradient, which results in the loss decreasing.
